@@ -1,35 +1,40 @@
 # Hi there, I'm Satyam Kumar 👋
 
-🎓 B.Tech ECE Student | 💻 Software & Hardware Enthusiast | 🚀 Exploring Technology
+🎓 B.Tech ECE Student | 💻 Exploring Software & Hardware | 🚀 Exploring Technology
 
 ## 🚀 About Me
 
 - 🎓 B.Tech student in Electronics & Communication Engineering (ECE)
 - 💡 Interested in both **Software and Hardware**
-- 🌱 Currently learning **C, C++, Python & Embedded Systems**
-- 🔌 Exploring **IoT, Arduino & ESP32**
+- 🌱 Currently strengthening my **Programming & Technical Skills**
+- 🔌 Exploring **IoT, Embedded Systems & Digital Electronics**
 - 📚 Focused on building practical projects and improving my technical skills
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-C • C++ • Python • Embedded C
+**Programming:**  
+C • Programming Fundamentals
 
 **Hardware & Electronics:**  
-Arduino • ESP32 • IoT • Digital Electronics
+IoT • Embedded Systems • Digital Electronics • Arduino • ESP32
 
 **Tools:**  
 Git • GitHub • VS Code
 
 ## 📌 Projects
 
-- 🔹 Smart Resource Conservation System — IoT-based project
-- 🔹 Arduino / ESP32 based projects
-- 🔹 Electronics & Digital Logic projects
+- 🔹 **Low-Cost Wearable RF-Based Emergency Alert System for Women's Safety**
+  - College project focused on developing a low-cost wearable emergency alert system
+  - Exploring RF-based communication for emergency alert transmission
+  - Working on the design and development of the prototype
+
+- 🔹 Arduino / ESP32 Based Projects
+- 🔹 Electronics & Digital Logic Projects
 
 ## 🎯 Current Goals
 
 - Strengthen programming fundamentals
+- Learn new technologies
 - Build real-world projects
 - Improve Software + Hardware skills
 - Prepare for internships and placements
