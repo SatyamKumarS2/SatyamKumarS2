@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there, I'm Satyam Kumar 👋
 
-<!--
-**SatyamKumarS2/SatyamKumarS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech ECE Student | 💻 Software & Hardware Enthusiast | 🚀 Exploring Technology
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Tech student in Electronics & Communication Engineering (ECE)
+- 💡 Interested in both **Software and Hardware**
+- 🌱 Currently learning **C, C++, Python & Embedded Systems**
+- 🔌 Exploring **IoT, Arduino & ESP32**
+- 📚 Focused on building practical projects and improving my technical skills
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+C • C++ • Python • Embedded C
+
+**Hardware & Electronics:**  
+Arduino • ESP32 • IoT • Digital Electronics
+
+**Tools:**  
+Git • GitHub • VS Code
+
+## 📌 Projects
+
+- 🔹 Smart Resource Conservation System — IoT-based project
+- 🔹 Arduino / ESP32 based projects
+- 🔹 Electronics & Digital Logic projects
+
+## 🎯 Current Goals
+
+- Strengthen programming fundamentals
+- Build real-world projects
+- Improve Software + Hardware skills
+- Prepare for internships and placements
+
+## 📫 Connect With Me
+
+- 📧 Email: satyamkumar.ece29@gmail.com
+- 🔗 LinkedIn: [Satyam Kumar](https://www.linkedin.com/in/satyam-kumar-a43825383)
+
+---
+
+⭐ From [SatyamKumarS2](https://github.com/SatyamKumarS2)
